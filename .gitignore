@@ -2,5 +2,5 @@ tmp/
 *_old
 /.DS_Store
 img/.DS_Store
-img/*png_backup
-*.db
+img/*_backup
+*.db 
